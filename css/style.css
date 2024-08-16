@@ -376,3 +376,27 @@ ul {
     margin-top: 303px;
 
 }
+/*----------para-------page-9-------------------*/
+.main-container {
+    width: 1519.2px;
+    height: 340.8px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.para-container{
+    width: 990px;
+    height: 100%;
+    margin-top: 50px;
+    
+}
+.para-container ul {
+  background-color: var(--color-1);  
+}
+.para-container ul li{
+    text-align: justify;
+    font-size: 12px;
+    margin-top: 20px;
+}
+/*-------------next--------------------*/
