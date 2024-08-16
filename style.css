@@ -1,0 +1,21 @@
+:root{
+    --color-1: #ffffff;
+    --text-color: #000000;
+    --accent-color: #0077ED;
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    font-family:  SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;;
+    text-decoration: none;
+    list-style: none;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+
+main{
+    background-color:var(--background-color);
+}
