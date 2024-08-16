@@ -84,3 +84,184 @@ ul {
     width: 100%;
     margin-top: -58px;
 }
+/*-----------------page-2------big-img-------------*/
+.img-big{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    margin-top: -55px;
+}
+.contents{
+    position: absolute;
+    top: 20%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+
+}
+.contents h2{
+    color: #fff;
+    font-weight: 600;
+    font-size: 3rem;
+}.contents h4{
+    color: #fff;
+    font-weight: 100;
+    font-size: 2rem;
+    margin-left: -92px;
+}
+/*----button-*/
+.btn-con{
+    margin-left: 26px;
+    margin-top: 26px;
+}
+#btn {
+    width: 150px;
+    height: 40px;
+    border: 3px solid var(--accent-color);
+    border-radius: 45px;
+    transition: all 0.3s;
+    cursor: pointer;
+    background: var(--accent-color);
+    font-size: 1.2em;
+    font-weight: 50;
+    
+    color:#fff;
+  }
+  
+  #btn:hover {
+    background: #fff;
+    color: var(--accent-color);
+    font-size: 1em;
+    border: 3px solid #fff;
+  }
+
+
+  #btn-2 {
+    width: 87px;
+    height: 40px;
+    border: 3px solid var(--accent-color);
+    border-radius: 45px;
+    transition: all 0.3s;
+    cursor: pointer;
+    background: var(--text-color);
+    font-size: 1.2em;
+    font-weight: 50;
+    color:#fff;
+    margin-left: 2px;
+  }
+  
+  #btn-2:hover {
+    background: #fff;
+    color: var(--accent-color);
+    font-size: 1em;
+    border: 3px solid #fff;
+  }
+/*----button-*/
+/*-----------------page-3------big-img-2-------------*/
+.img-big-2{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    margin-top: -110px;
+}
+.contents-2{
+    position: absolute;
+    top: 20%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+
+}
+.contents-2 h2{
+    color: var(--text-color);
+    font-weight: 600;
+    font-size: 3rem;
+}.contents-2 h4{
+    color: var(--text-color);
+    font-weight: 100;
+    font-size: 2rem;
+    margin-left: -92px;
+}
+/*----button-*/
+.btn-con{
+    margin-left: 26px;
+    margin-top: 26px;
+}
+#btn {
+    width: 150px;
+    height: 40px;
+    border: 3px solid var(--accent-color);
+    border-radius: 45px;
+    transition: all 0.3s;
+    cursor: pointer;
+    background: var(--accent-color);
+    font-size: 1.2em;
+    font-weight: 50;
+    
+    color:#fff;
+  }
+  
+  #btn:hover {
+    background: #fff;
+    color: var(--accent-color);
+    font-size: 1em;
+    border: 3px solid #fff;
+  }
+
+
+  #btn-2-2 {
+    width: 87px;
+    height: 40px;
+    border: 3px solid var(--accent-color);
+    border-radius: 45px;
+    transition: all 0.3s;
+    cursor: pointer;
+    background: #fff;
+    font-size: 1.2em;
+    font-weight: 50;
+    color:var(--accent-color);
+    margin-left: 2px;
+  }
+  
+  #btn-2-2:hover {
+    background: var(--accent-color);
+    color: #fff;
+    font-size: 1em;
+    border: 3px solid #fff;
+  }
+/*----button-*/
+    
+/*-----------------page-4------big-img-3-------------*/
+.img-big-3{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    margin-top: -110px;
+}
+/*----button-*/
+.btn-con-3{
+    margin: 0;
+    position: absolute;
+    top: 72%;
+    left: 49%;
+}
+}
+  #btn-2-3 {
+    width: 87px;
+    height: 40px;
+    border: 3px solid var(--accent-color);
+    border-radius: 45px;
+    transition: all 0.3s;
+    cursor: pointer;
+    background: #fff;
+    font-size: 1.2em;
+    font-weight: 50;
+    color:var(--accent-color);
+    margin-left: 2px;
+  }
+  
+  #btn-2-3:hover {
+    background: var(--accent-color);
+    color: #fff;
+    font-size: 1em;
+    border: 3px solid #fff;
+  }
+/*----button-*/
