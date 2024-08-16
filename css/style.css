@@ -52,7 +52,7 @@ ul {
 }
   li {
     float: left;
-  }
+ }
   
   li a {
     display: block;
@@ -61,4 +61,20 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 12px;
+}
+/*-----------------nav-2-------------------*/
+.note{
+    padding-top: 0px;
+    
+}
+#nav-2{
+    background-color: #454545;
+    height: 30px;
+}
+#nav-2 p{
+    color: #fff;
+    font-size: 14px;
+    padding-top: 5px;
+    text-align: center;
+    align-content: center;
 }
