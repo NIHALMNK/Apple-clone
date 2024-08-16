@@ -1,0 +1,64 @@
+:root{
+    --color-1: #ffffff;
+    --text-color: #000000;
+    --accent-color: #0077ED;
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    font-family:  SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;;
+    text-decoration: none;
+    list-style: none;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+
+main{
+    background-color:var(--background-color);
+}
+/*-------------------------------------Start---------------------------------------------------------*/
+#nav-1{
+    margin: 0 ;
+    box-sizing: border-box;
+    width: 100%;
+    
+
+}
+.logo{
+    width: 23px;
+    height: 44px;
+    padding: 0;
+    margin: -4px;
+    margin-top: 0px;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    width: 100%;
+    
+  }
+.ul-add{
+    padding-left: 22%;
+}
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 12px;
+}
